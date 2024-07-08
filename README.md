@@ -1,2 +1,6 @@
 # project1
-snake game
+Snake game 
+     -using html ,css, JS;
+     -music sounds sources all from YOUTUBE;
+
+->By Mahir Aggarwal
